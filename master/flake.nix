@@ -11,6 +11,7 @@
   inputs.src-nimfm-master.ref   = "refs/heads/master";
   inputs.src-nimfm-master.owner = "neonnnnn";
   inputs.src-nimfm-master.repo  = "nimfm";
+  inputs.src-nimfm-master.dir   = "";
   inputs.src-nimfm-master.type  = "github";
   
   inputs."cligen".owner = "nim-nix-pkgs";
